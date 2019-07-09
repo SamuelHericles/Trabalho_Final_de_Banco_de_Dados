@@ -43,4 +43,4 @@ seguinte imagem:
 
 # Projeto
 
-  O projeto se encontra finalizado, mas caso queria usá-lo para algo ou mesmo fazar algumas melhorias no código, entre em contato conosco.
+  O projeto se encontra finalizado, mas caso queria usá-lo para algo ou mesmo fazer algumas melhorias no código, entre em contato conosco.
